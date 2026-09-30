@@ -1,6 +1,6 @@
 # Clase N7 - TN
 ## Procesador de Texto de Google
-Trabajos realizados en este proyecto:
+> Trabajos realizados en este proyecto:
 > Exploración de información con perplexity
 > Traslado de datos a procesador de texto
 > Formateos general del documento
